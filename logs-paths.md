@@ -14,3 +14,14 @@
 1. ContainerInsights/Log Analytics workspace/Logs/Tables/Containers/containerlogV2
 
 
+# Container Insights
+Investigate its pods, containers and runtime environment
+
+# Application Insights: 
+Investigate its requests, failures and performance
+
+# Log Analytics:
+Store and query collected logs and application telemetry
+
+# Azure Monitor:
+Bring the monitoring capabilities together
