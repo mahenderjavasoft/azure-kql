@@ -11,8 +11,6 @@
 1. Application Insights/project-specific-insight/Monitoring/Logs
 
 # via containerInsights
-1. ContainerInsights/Log Analytics workspace/Logs
-
-
+1. ContainerInsights/Log Analytics workspace/Logs/Tables/Containers/containerlogV2
 
 
